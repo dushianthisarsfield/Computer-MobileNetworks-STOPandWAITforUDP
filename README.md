@@ -3,9 +3,9 @@
 
 <h2>Functions</h2>
 
-<body> ● My program sets and closes sessions of communication</body>
+<body> ● My program sets and closes sessions of communication</body><br><br>
 
-<body>● It is a simple STOP and WAIT protocol for UDP</body>
+<body>● It is a simple STOP and WAIT protocol for UDP</body><br><br>
 
 <body>● In the packet, the byte payload includes both the original data and a sequence number for the packet (SN=x) </body>
   
