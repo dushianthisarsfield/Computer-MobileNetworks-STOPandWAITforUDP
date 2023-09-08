@@ -5,35 +5,35 @@
 
 <div style="margin-bottom: 20px;"></div>
 
-<body> ● My program sets and closes sessions of communication
+<body> ● My program sets and closes sessions of communication </body>
 
 <div style="margin-bottom: 20px;"></div>
 
-● It is a simple STOP and WAIT protocol for UDP
+<body>● It is a simple STOP and WAIT protocol for UDP </body>
 
 <div style="margin-bottom: 20px;"></div>
 
-● In the packet, the byte payload includes both the original data and a sequence number for the packet (SN=x) 
-
-<div style="margin-bottom: 20px;"></div>
-  
-● The data in the file is sent between the client/server and contains the string ‘umbrella’ 
+<body>● In the packet, the byte payload includes both the original data and a sequence number for the packet (SN=x) </body>
 
 <div style="margin-bottom: 20px;"></div>
   
-● Included are UDP ports for the communication endpoints 
+<body>● The data in the file is sent between the client/server and contains the string ‘umbrella’ </body>
 
 <div style="margin-bottom: 20px;"></div>
   
-● The client takes an IP address/Hostname and port number as arguments 
+<body>● Included are UDP ports for the communication endpoints </body>
+
+<div style="margin-bottom: 20px;"></div>
+  
+<body>● The client takes an IP address/Hostname and port number as arguments </body>
 
 <div style="margin-bottom: 20px;"></div>
 
-● The port number is the port number the server listens on 
+<body>● The port number is the port number the server listens on </body>
 
 <div style="margin-bottom: 20px;"></div>
 
-● The sender reads a line of data from the file and combines that text with the sequence number and sends the packet to the receiver. </body>
+<body>● The sender reads a line of data from the file and combines that text with the sequence number and sends the packet to the receiver. </body>
 
 <div style="margin-bottom: 20px;"></div>
 <div style="margin-bottom: 20px;"></div>
