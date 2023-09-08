@@ -3,11 +3,11 @@
 
 <h2>Functions</h2>
 
-<body> ● My program sets and closes sessions of communication</body>
+<body> ● My program sets and closes sessions of communication
 
 <div style="margin-bottom: 20px;"></div>
 
-<body>● It is a simple STOP and WAIT protocol for UDP</body>
+● It is a simple STOP and WAIT protocol for UDP</body>
 
 <div style="margin-bottom: 20px;"></div>
 
