@@ -3,6 +3,8 @@
 
 <h2>Functions</h2>
 
+<div style="margin-bottom: 20px;"></div>
+
 <body> ● My program sets and closes sessions of communication
 
 <div style="margin-bottom: 20px;"></div>
