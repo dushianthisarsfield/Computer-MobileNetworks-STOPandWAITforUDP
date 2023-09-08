@@ -1,5 +1,6 @@
-Computer-MobileNetworks-STOPandWAITforUDP
-#### Stop and Wait protocol for UDP
+### Hi there 👋, Computer and Mobile Networks - Stop & Wait protocol for UDP
+![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 Functions
 ● My program sets and closes sessions of communication
 ● It is a simple STOP and WAIT protocol for UDP
@@ -21,6 +22,10 @@ the interactions and functionality.
 Technical Requirements
 The application is built using Java (Liberica JDK 11)
 The application runs from the Command Console
+
+
+
+
 
 
 
