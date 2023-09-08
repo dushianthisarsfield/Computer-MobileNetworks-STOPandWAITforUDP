@@ -1,8 +1,9 @@
-### Hi there 👋, Computer and Mobile Networks - Stop & Wait protocol for UDP
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<h1>Computer and Mobile Networks - Stop & Wait protocol for UDP</h1>
 
-Functions
-● My program sets and closes sessions of communication
+
+<h2>Functions</h2>
+
+<body> ● My program sets and closes sessions of communication
 ● It is a simple STOP and WAIT protocol for UDP
 ● In the packet, the byte payload includes both the original data and a
 sequence number for the packet (SN=x)
@@ -21,7 +22,7 @@ the interactions and functionality.
 
 Technical Requirements
 The application is built using Java (Liberica JDK 11)
-The application runs from the Command Console
+The application runs from the Command Console </body>
 
 
 
